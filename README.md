@@ -4,7 +4,7 @@
 Ce projet est un mini-projet front-end conçu pour renforcer mes compétences en développement web dans le cadre de mon apprentissage. 
 Le projet consiste à créer une page web pour un restaurant fictif, Eat Henriette, mettant en avant un design élégant et une expérience utilisateur intuitive.
 
-L'objectif principal est de pratiquer et de solidifier mes acquis en HTML, CSS, et éventuellement JavaScript.
+L'objectif principal est de pratiquer et de solidifier mes acquis en HTML, CSS.
 
 ## Fonctionnalités
 - Page d'accueil élégante : Une mise en page moderne avec une section d'accueil captivante.
