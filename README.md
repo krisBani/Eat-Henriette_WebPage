@@ -7,22 +7,20 @@ Le projet consiste à créer une page web pour un restaurant fictif, Eat Henriet
 L'objectif principal est de pratiquer et de solidifier mes acquis en HTML, CSS, et éventuellement JavaScript.
 
 ## Fonctionnalités
--Page d'accueil élégante : Une mise en page moderne avec une section d'accueil captivante.
+- Page d'accueil élégante : Une mise en page moderne avec une section d'accueil captivante.
 
--Menu interactif : Présentation des plats avec des descriptions, des prix, et des images appétissantes.
+- Menu interactif : Présentation des plats avec des descriptions, des prix, et des images appétissantes.
 
--Formulaire de contact : Permet aux utilisateurs de soumettre leurs coordonnées ou poser des questions.
+- Formulaire de contact : Permet aux utilisateurs de soumettre leurs coordonnées ou poser des questions.
 
--Responsive Design : Compatible avec les écrans mobiles, tablettes et ordinateurs.
+- Responsive Design : Compatible avec les écrans mobiles, tablettes et ordinateurs.
 
--Code bien structuré : Application des meilleures pratiques en front-end pour une maintenance facile.
+- Code bien structuré : Application des meilleures pratiques en front-end pour une maintenance facile.
 
 ## Instalation et exécution
-1. Cloner le depot
    
-git clone https://github.com/krisbani/Eat-henriette_WebPage.git
+```bash
+git clone https://github.com/ton-repo/mon-projet.git
+cd Eat-Henriette_WebPage
 
-3. Accéder au répertoire du projet
-
-cd Eat-Henriette_Webpage
 
